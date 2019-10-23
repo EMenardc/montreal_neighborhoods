@@ -1,2 +1,2 @@
-# montreal_neighborhoods
-Montréal neighborhoods json
+# Montréal neighborhoods JSON files
+List Montréal's neighborhoods set in polygons in a JSON format.
